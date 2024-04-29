@@ -2,6 +2,17 @@
 
 My Backend Capstone Project.
 
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/deepaksahoodeveloper/backend-capstone-project.git
+2. Navigate to the project directory:
+   ```bash
+    cd your-repository
+4. Install dependencies using pip:
+   ```bash
+   pip install -r requirements.txt
 
 ## 🤝 Contributing
 
